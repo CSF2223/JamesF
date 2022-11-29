@@ -1,13 +1,20 @@
 /*
 Color Palette
-background color: #200439
-primary: #512C73
-secondary: #361356
-tertiary: #6F4D8F
+background color: #181818
+primary: #8758FF
+secondary: #5CB8E4
+tertiary: #F2F2F2
 accent: #9277AC
 vegasGold: #c5b358
 white: #fff
 black: #000  
+
+Color Palette
+background color: #181818
+primary: #8758FF
+secondary: #5CB8E4
+tertiary: #F2F2F2
+
 */
 
 html {
@@ -20,7 +27,7 @@ body {
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-color: #200439;
+    background-color: #181818;
     color: #fff;
 }
 
@@ -74,13 +81,13 @@ body {
     border-radius: 25px;
     font-size: 0.9rem;
     font-weight: 700;
-    color: #200439;
+    color: #181818;
     text-decoration: none;
     box-shadow: 8px 8px 4px #000;
 }
 
 .button:hover {
-    background-color: #361356;
+    background-color: #5CB8E4;
     color: #c5b358;
     transform: scale(1.5);
     /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
@@ -95,7 +102,7 @@ body {
 
 .projectCard {
     background-color: #fff;
-    color: #200439;
+    color: #181818;
     margin: 4rem 3rem;
     padding: 0.5rem 2rem;
     text-align: center;
