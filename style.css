@@ -172,12 +172,12 @@ footer {
     align-items: center;
     margin: 0;
     height: 80vh;
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .filler img {
-    border-radius: 6rem;
+    border-radius: 4rem;
     box-shadow: 10px 10px #000;
     width: 40%;
     height: auto;
