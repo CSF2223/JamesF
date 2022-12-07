@@ -4,16 +4,6 @@ background color: #181818
 primary: #8758FF
 secondary: #5CB8E4
 tertiary: #F2F2F2
-accent: #9277AC
-vegasGold: #c5b358
-white: #fff
-black: #000  
-
-Color Palette
-background color: #181818
-primary: #8758FF
-secondary: #5CB8E4
-tertiary: #F2F2F2
 
 */
 
@@ -57,7 +47,7 @@ body {
 }
 
 .heroName {
-    color: #c5b358;
+    color: #8758FF;
     font-size: 2.5rem;
     text-transform: uppercase;
 }
@@ -152,16 +142,16 @@ body {
 
 footer {
     text-align: center;
-    color: #c5b358;
+    color: #8758FF;
     margin: 10rem 0;
-    border-top: 1px solid #9277AC;
+    border-top: 1px solid #8758FF;
 }
 
 .copyright {
     margin: 1rem;
     padding: 1rem;
     font-size: 1rem;
-    color: #c5b358;
+    color: #8758FF;
     display: block;
 }
 
